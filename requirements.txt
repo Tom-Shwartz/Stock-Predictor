@@ -6,4 +6,4 @@ datetime
 tensorflow
 keras
 streamlit
-sklearn
+scikit-learn
